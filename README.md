@@ -1,7 +1,7 @@
 RTL-LNB
 =======
 
-Discussion and development of software to receive a 2 MHz carrier from from a Ku-band satellite transponder and cheap LNB. 
+Discussion and development of LNB that is used in conjunction with an rtl-sdr to downconvert L-band to a frequency more usable by the radio. 
 
 Links
 =====
